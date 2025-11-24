@@ -5,7 +5,7 @@ GROUP A
 GROUP 7 PRESENTATION
 
 
-TOPIC 1: INTRODUCTION TO IT AND STATS
+TOPIC 1: INTRODUCTION TO INFORMATION TECHNOLOGY FOR STATISTICS.
 
 IT is the use of computers, networks, softwares and systems to gather store, analyze, model and communicate data.
 Statistics are raw facts
